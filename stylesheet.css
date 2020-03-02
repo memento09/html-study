@@ -1,0 +1,23 @@
+.home {
+    background-image: url(bg.jpg);
+    text-align: center;
+    margin-top: 50px;
+    padding-left: 20px;
+}
+
+.card-img-top {
+    width: 100%;
+}
+
+.card {
+    margin-top: 10px;
+    width: 30%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    position: relative;
+    margin-top: 70px;
+}
